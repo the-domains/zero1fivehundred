@@ -17,8 +17,8 @@ keywords:
   - measurable
   - need
 description: "The following blog post, unless otherwise noted, was written by a member of Gamasutra's community. The thoughts and opinions expressed are those of the writer and not Gamasutra or its parent company. What do you know about the Oregon Trail?"
-datePublished: '2016-02-24T20:30:56.605Z'
-dateModified: '2016-02-24T20:30:54.260Z'
+datePublished: '2016-02-24T20:32:46.466Z'
+dateModified: '2016-02-24T20:31:05.766Z'
 author: []
 related: []
 app_links: []
