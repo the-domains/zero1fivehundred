@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T19:18:38.111Z'
-dateModified: '2016-02-24T19:18:37.692Z'
+datePublished: '2016-02-24T19:25:32.566Z'
+dateModified: '2016-02-24T19:18:48.667Z'
+title: Tormenting the Grid
+author: []
+sourcePath: _posts/2016-02-24-tormenting-the-grid.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Tormenting the Grid
-author: []
-sourcePath: _posts/2016-02-24-tormenting-the-grid.md
-published: true
 url: tormenting-the-grid/index.html
 _type: Article
 
