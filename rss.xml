@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[zero1fivehundred]]></title>
         <description><![CDATA[zero1fivehundred]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zero1fivehundred/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 18:34:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 18:34:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zero1fivehundred/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why "Psychological Androgyny" Is Essential for Creativity]]></title>
+            <description><![CDATA[<article><h1>Why "Psychological Androgyny" Is Essential for Creativity</h1><p>Despite the immense canon of research on creativity - including its four stages, the cognitive science of the ideal creative routine, the role of memory, and the relationship between creativity and mental illness - very little has focused on one of life's few givens that equally few of us can escape: gender and the genderedness of the mind.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec818cfbab69479227d8ca58d78fa568b0e9396c.jpg"></article>]]></description>
+            <link>https://www.brainpickings.org/2014/11/07/psychological-androginy-creativity-csikszentmihalyi/</link>
+            <guid isPermaLink="false">d923d20f-060f-49ca-aecc-32fc2179bc1a</guid>
+            <pubDate>Wed, 24 Feb 2016 18:34:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Interview with Willem]]></title>
             <description><![CDATA[<article><h1>Interview with Willem</h1><p>Published in PALET 338 volume 64 dec/jan 2008/2009 | Author Marie Oosterbaan Every morning at half past eight, Willem van Goor disappears into his studio where he works most effectively to the accompaniment of either classical or meditative, serial music.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31ffef0a4e4a714fb4d646cf04085bf8a51b90d4.jpg"></article>]]></description>
