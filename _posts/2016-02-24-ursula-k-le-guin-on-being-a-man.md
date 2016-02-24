@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'https://www.brainpickings.org'
   name: Brain Pickings
-  favicon: 'https://www.brainpickings.org/wp-content/themes/brainpickings/images/favicon.ico'
   domain: www.brainpickings.org
+  url: 'https://www.brainpickings.org'
+  favicon: 'https://www.brainpickings.org/wp-content/themes/brainpickings/images/favicon.ico'
 keywords:
   - semicolons
   - guin
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.brainpickings.org/2014/10/17/ursula-k-le-guin-gender/'
 title: Ursula K. Le Guin on Being a Man
-datePublished: '2016-02-24T18:40:04.022Z'
-dateModified: '2016-02-24T18:34:58.717Z'
+datePublished: '2016-02-24T19:12:42.441Z'
+dateModified: '2016-02-24T18:55:45.152Z'
 sourcePath: _posts/2016-02-24-ursula-k-le-guin-on-being-a-man.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
