@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T19:25:32.566Z'
-dateModified: '2016-02-24T19:18:48.667Z'
+datePublished: '2016-02-24T19:28:15.542Z'
+dateModified: '2016-02-24T19:28:01.363Z'
 title: Tormenting the Grid
 author: []
 sourcePath: _posts/2016-02-24-tormenting-the-grid.md
