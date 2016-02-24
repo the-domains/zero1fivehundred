@@ -1,6 +1,6 @@
 name: zero1fivehundred
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.12414
 typography_spectrum: 1
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.375
   lightness: 0.75
   saturation: 0.875
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
