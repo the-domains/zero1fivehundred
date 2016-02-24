@@ -1,6 +1,6 @@
 name: zero1fivehundred
 favicon: null
-layout_spectrum: 0.74541
+layout_spectrum: 0.23737
 typography_spectrum: 0.2557347484398633
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.07297032047063112
+  brandStrength: 0.5
   lightness: 0.8125
   saturation: 0.5313130295835435
   rhythmicContrast: 0.25
