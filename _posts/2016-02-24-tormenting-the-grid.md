@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T19:28:15.542Z'
-dateModified: '2016-02-24T19:28:01.363Z'
+datePublished: '2016-02-24T20:31:57.092Z'
+dateModified: '2016-02-24T20:31:35.323Z'
 title: Tormenting the Grid
 author: []
 sourcePath: _posts/2016-02-24-tormenting-the-grid.md
@@ -24,4 +24,4 @@ _type: Article
 ---
 # Tormenting the Grid
 
-As you can tell, I've been tormenting the Grid AI with a barrage of different links. So far, it's handling them poorly. What this system needs is a semi-curation function. Where humans can say "I like what you did there, keep that - and redesign that".
+As you can tell, I've been tormenting the Grid AI with a barrage of different links. So far, it's handling them poorly. What this system needs is a curation function. Where humans can say "I like what you did there, keep that - and redesign that".
