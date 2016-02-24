@@ -4,7 +4,7 @@
         <description><![CDATA[zero1fivehundred]]></description>
         <link>https://thegrid.ai/zero1fivehundred/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 19:48:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 20:28:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/zero1fivehundred/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tormenting the Grid]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/zero1fivehundred/tormenting-the-grid/index.html</link>
             <guid isPermaLink="false">4dc77047-6bd8-4c24-a2cc-83ba3ac5f952</guid>
             <pubDate>Wed, 24 Feb 2016 19:28:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Nine States of Design - The Startup]]></title>
+            <description><![CDATA[<article><h1>The Nine States of Design - The Startup</h1><p>Modern UI teams are designing components first; Interfaces are merely the thoughtful composition of components. This leaves an often glaring hole for users on "the unhappy path" - The places where users may, intentionally or not, stray from your idealized flow.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/009ff2f398001e066c647a6d397b5569782abbfc.png"></article>]]></description>
+            <link>https://thegrid.ai/zero1fivehundred/the-nine-states-of-design-the-startup/index.html</link>
+            <guid isPermaLink="false">f9fcdbe7-40b3-4b6c-ba0f-a040540dc293</guid>
+            <pubDate>Wed, 24 Feb 2016 20:28:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Do Things that Don't Scale]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Gamasutra: John Krajewski's Blog - 'You Have Died of Dysentery': How Games Will Revolutionize Education</h1><p>The following blog post, unless otherwise noted, was written by a member of Gamasutra's community. The thoughts and opinions expressed are those of the writer and not Gamasutra or its parent company. What do you know about the Oregon Trail?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e869521d69f7317c84f325b3204f149659e9484b.jpg"></article>]]></description>
             <link>http://www.gamasutra.com/blogs/JohnKrajewski/20140114/208612/You_Have_Died_of_Dysentery_How_Games_Will_Revolutionize_Education.php</link>
             <guid isPermaLink="false">883d477f-e2c7-405e-bace-32e73c3d3692</guid>
-            <pubDate>Wed, 24 Feb 2016 18:34:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What I've learned so far from living in a Mars simulation - Sheyna Gifford - Aeon Essays]]></title>
-            <description><![CDATA[<article><h1>What I've learned so far from living in a Mars simulation - Sheyna Gifford - Aeon Essays</h1><p>I don't quite remember what it's like to wake up on Earth. Five months after 'landing on Mars', my day begins in a white dome in the middle of a red lava field, and I wonder: do we have enough power to turn on the heat?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/137fa857af0f26e3dd7617b09fe8f37e0e033ac2.jpg"></article>]]></description>
-            <link>https://aeon.co/essays/what-i-ve-learned-so-far-from-living-in-a-mars-simulation</link>
-            <guid isPermaLink="false">390e0d34-6c08-4d35-a963-ef4a90afc03c</guid>
             <pubDate>Wed, 24 Feb 2016 18:34:27 GMT</pubDate>
         </item>
     </channel>
