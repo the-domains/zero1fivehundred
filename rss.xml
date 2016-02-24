@@ -4,7 +4,7 @@
         <description><![CDATA[zero1fivehundred]]></description>
         <link>https://thegrid.ai/zero1fivehundred/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 19:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 19:48:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/zero1fivehundred/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tormenting the Grid]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/zero1fivehundred/tormenting-the-grid/index.html</link>
             <guid isPermaLink="false">4dc77047-6bd8-4c24-a2cc-83ba3ac5f952</guid>
             <pubDate>Wed, 24 Feb 2016 19:28:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do Things that Don't Scale]]></title>
+            <description><![CDATA[<article><h1>Do Things that Don't Scale</h1><p>July 2013 One of the most common types of advice we give at Y Combinator is to do things that don't scale. A lot of would-be founders believe that startups either take off or don't. You build something, make it available, and if you've made a better mousetrap, people beat a path to your door as promised.</p></article>]]></description>
+            <link>http://www.paulgraham.com/ds.html</link>
+            <guid isPermaLink="false">b637a49c-74f0-45f4-94bb-06678523812d</guid>
+            <pubDate>Wed, 24 Feb 2016 19:48:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ursula K. Le Guin on Being a Man]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>What I've learned so far from living in a Mars simulation - Sheyna Gifford - Aeon Essays</h1><p>I don't quite remember what it's like to wake up on Earth. Five months after 'landing on Mars', my day begins in a white dome in the middle of a red lava field, and I wonder: do we have enough power to turn on the heat?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/137fa857af0f26e3dd7617b09fe8f37e0e033ac2.jpg"></article>]]></description>
             <link>https://aeon.co/essays/what-i-ve-learned-so-far-from-living-in-a-mars-simulation</link>
             <guid isPermaLink="false">390e0d34-6c08-4d35-a963-ef4a90afc03c</guid>
-            <pubDate>Wed, 24 Feb 2016 18:34:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why "Psychological Androgyny" Is Essential for Creativity]]></title>
-            <description><![CDATA[<article><h1>Why "Psychological Androgyny" Is Essential for Creativity</h1><p>Despite the immense canon of research on creativity - including its four stages, the cognitive science of the ideal creative routine, the role of memory, and the relationship between creativity and mental illness - very little has focused on one of life's few givens that equally few of us can escape: gender and the genderedness of the mind.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec818cfbab69479227d8ca58d78fa568b0e9396c.jpg"></article>]]></description>
-            <link>https://www.brainpickings.org/2014/11/07/psychological-androginy-creativity-csikszentmihalyi/</link>
-            <guid isPermaLink="false">d923d20f-060f-49ca-aecc-32fc2179bc1a</guid>
             <pubDate>Wed, 24 Feb 2016 18:34:27 GMT</pubDate>
         </item>
     </channel>
