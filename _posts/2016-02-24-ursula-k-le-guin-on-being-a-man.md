@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  name: Brain Pickings
-  domain: www.brainpickings.org
-  url: 'https://www.brainpickings.org'
-  favicon: 'https://www.brainpickings.org/wp-content/themes/brainpickings/images/favicon.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.brainpickings.org/2014/10/17/ursula-k-le-guin-gender/'
+inLanguage: en
+starred: false
 keywords:
   - semicolons
   - guin
@@ -18,19 +17,20 @@ keywords:
   - nazi
   - hemingway
 description: "Who are we when we, to borrow Hannah Arendt's enduring words, \"are together with no one but ourselves\"? However much we might exert ourselves on learning to stop letting others define us, the definitions continue to be hurled at us - definitions predicated on who we should be in relation to some concrete or abstract other, some ideal, some benchmark beyond the boundaries of who we already are."
-inLanguage: en
+datePublished: '2016-02-24T19:14:57.291Z'
+dateModified: '2016-02-24T19:12:50.756Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.brainpickings.org/2014/10/17/ursula-k-le-guin-gender/'
 title: Ursula K. Le Guin on Being a Man
-datePublished: '2016-02-24T19:12:42.441Z'
-dateModified: '2016-02-24T18:55:45.152Z'
 sourcePath: _posts/2016-02-24-ursula-k-le-guin-on-being-a-man.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: false
 authors: []
+publisher:
+  name: Brain Pickings
+  domain: www.brainpickings.org
+  url: 'https://www.brainpickings.org'
+  favicon: 'https://www.brainpickings.org/wp-content/themes/brainpickings/images/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
