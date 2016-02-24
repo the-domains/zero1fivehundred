@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T20:31:57.092Z'
-dateModified: '2016-02-24T20:31:35.323Z'
+datePublished: '2016-02-24T20:32:26.986Z'
+dateModified: '2016-02-24T20:32:06.229Z'
 title: Tormenting the Grid
 author: []
 sourcePath: _posts/2016-02-24-tormenting-the-grid.md
