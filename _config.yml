@@ -1,0 +1,28 @@
+name: zero1fivehundred
+favicon: null
+layout_spectrum: 0.946942392969504
+typography_spectrum: 0.2557347484398633
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.07297032047063112
+  lightness: 0.4069812996312976
+  saturation: 0.5313130295835435
+  rhythmicContrast: 0.7600192539393902
+purpose: []
